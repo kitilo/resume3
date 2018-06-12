@@ -781,6 +781,7 @@
   width:360px;
   height:640px;
   overflow:hidden;
+  touch-action:pan-y;
 }
 #u820_state0 {
   border-width:0px;
@@ -824,7 +825,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/金廷隆_个人简历/u240_state0.jpg');
+  background-image:url('../../images/金廷隆_个人简历/u234_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -956,7 +957,7 @@
   width:360px;
   height:640px;
   overflow:hidden;
-  touch-action:none;
+  touch-action:pan-y;
 }
 #u827_state0 {
   border-width:0px;
@@ -2177,7 +2178,7 @@
   width:360px;
   height:640px;
   overflow:hidden;
-  touch-action:none;
+  touch-action:pan-y;
 }
 #u877_state0 {
   border-width:0px;
@@ -3046,7 +3047,7 @@
   width:360px;
   height:640px;
   overflow:hidden;
-  touch-action:none;
+  touch-action:pan-y;
 }
 #u910_state0 {
   border-width:0px;
