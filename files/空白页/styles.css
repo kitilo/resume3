@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1500_div {
+#u943_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -32,11 +32,11 @@
   font-size:14px;
   color:#999999;
 }
-#u1500 {
+#u943 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:120px;
+  top:160px;
   width:200px;
   height:100px;
   font-family:'微软雅黑';
@@ -45,7 +45,7 @@
   font-size:14px;
   color:#999999;
 }
-#u1500_text {
+#u943_text {
   border-width:0px;
   position:absolute;
   left:2px;
