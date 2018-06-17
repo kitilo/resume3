@@ -98,9 +98,9 @@
   top:0px;
   width:100px;
   height:100px;
-  background:-webkit-linear-gradient(45deg, rgba(43, 194, 153, 1) 0%, rgba(43, 194, 153, 1) 0%, rgba(221, 249, 184, 1) 100%, rgba(221, 249, 184, 1) 100%);
-  background:-moz-linear-gradient(45deg, rgba(43, 194, 153, 1) 0%, rgba(43, 194, 153, 1) 0%, rgba(221, 249, 184, 1) 100%, rgba(221, 249, 184, 1) 100%);
-  background:linear-gradient(45deg, rgba(43, 194, 153, 1) 0%, rgba(43, 194, 153, 1) 0%, rgba(221, 249, 184, 1) 100%, rgba(221, 249, 184, 1) 100%);
+  background:-webkit-linear-gradient(45deg, rgba(52, 170, 156, 1) 0%, rgba(52, 170, 156, 1) 0%, rgba(28, 211, 155, 1) 100%, rgba(28, 211, 155, 1) 100%);
+  background:-moz-linear-gradient(45deg, rgba(52, 170, 156, 1) 0%, rgba(52, 170, 156, 1) 0%, rgba(28, 211, 155, 1) 100%, rgba(28, 211, 155, 1) 100%);
+  background:linear-gradient(45deg, rgba(52, 170, 156, 1) 0%, rgba(52, 170, 156, 1) 0%, rgba(28, 211, 155, 1) 100%, rgba(28, 211, 155, 1) 100%);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
