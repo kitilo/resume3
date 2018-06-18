@@ -7714,7 +7714,7 @@
   -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   background-image:none;
 }
 #u682_state0_content {
@@ -9409,7 +9409,7 @@
   -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   background-image:none;
 }
 #u743_state0_content {
@@ -11342,7 +11342,7 @@
   width:320px;
   height:196px;
   background:inherit;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   border:none;
   border-radius:10px;
   -moz-box-shadow:none;
@@ -11396,7 +11396,7 @@
   width:320px;
   height:286px;
   background:inherit;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   border:none;
   border-radius:10px;
   -moz-box-shadow:none;
@@ -11450,7 +11450,7 @@
   width:320px;
   height:406px;
   background:inherit;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   border:none;
   border-radius:10px;
   -moz-box-shadow:none;
@@ -11504,7 +11504,7 @@
   width:320px;
   height:376px;
   background:inherit;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   border:none;
   border-radius:10px;
   -moz-box-shadow:none;
@@ -11558,7 +11558,7 @@
   width:320px;
   height:286px;
   background:inherit;
-  background-color:rgba(243, 245, 248, 1);
+  background-color:rgba(249, 250, 252, 1);
   border:none;
   border-radius:10px;
   -moz-box-shadow:none;
@@ -12329,7 +12329,7 @@
   left:0px;
   top:906px;
   width:360px;
-  height:1586px;
+  height:1616px;
   overflow:hidden;
 }
 #u837_state0 {
@@ -12338,7 +12338,7 @@
   left:0px;
   top:0px;
   width:360px;
-  height:1586px;
+  height:1616px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -12358,8 +12358,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
-  height:90px;
+  width:163px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -12368,9 +12368,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
-  font-weight:700;
   font-style:normal;
-  font-size:24px;
   text-align:left;
   line-height:30px;
 }
@@ -12379,12 +12377,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
-  height:90px;
+  width:163px;
+  height:120px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
-  font-weight:700;
   font-style:normal;
-  font-size:24px;
   text-align:left;
   line-height:30px;
 }
@@ -12393,13 +12389,13 @@
   position:absolute;
   left:20px;
   top:30px;
-  width:97px;
+  width:141px;
   white-space:nowrap;
 }
 #u839 {
   position:absolute;
   left:20px;
-  top:90px;
+  top:120px;
 }
 #u839_state0 {
   position:relative;
@@ -12475,7 +12471,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u841_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u841_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12602,7 +12598,7 @@
 #u847 {
   position:absolute;
   left:20px;
-  top:270px;
+  top:300px;
 }
 #u847_state0 {
   position:relative;
@@ -12678,7 +12674,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u849_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u849_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12805,7 +12801,7 @@
 #u855 {
   position:absolute;
   left:20px;
-  top:450px;
+  top:480px;
 }
 #u855_state0 {
   position:relative;
@@ -12881,7 +12877,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u857_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u857_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13008,7 +13004,7 @@
 #u863 {
   position:absolute;
   left:20px;
-  top:630px;
+  top:660px;
 }
 #u863_state0 {
   position:relative;
@@ -13084,7 +13080,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u865_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u865_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13211,7 +13207,7 @@
 #u871 {
   position:absolute;
   left:20px;
-  top:810px;
+  top:840px;
 }
 #u871_state0 {
   position:relative;
@@ -13287,7 +13283,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u873_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u873_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13414,7 +13410,7 @@
 #u879 {
   position:absolute;
   left:20px;
-  top:990px;
+  top:1020px;
 }
 #u879_state0 {
   position:relative;
@@ -13490,7 +13486,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u881_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u881_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13617,7 +13613,7 @@
 #u887 {
   position:absolute;
   left:20px;
-  top:1170px;
+  top:1200px;
 }
 #u887_state0 {
   position:relative;
@@ -13693,7 +13689,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u889_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u889_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13820,7 +13816,7 @@
 #u895 {
   position:absolute;
   left:20px;
-  top:1350px;
+  top:1380px;
 }
 #u895_state0 {
   position:relative;
@@ -13896,7 +13892,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u889_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u897_state0.jpg');
   background-position:center center;
   background-repeat:no-repeat;
   background-attachment:scroll;
