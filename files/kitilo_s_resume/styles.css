@@ -8320,7 +8320,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:327px;
   background-image:none;
 }
 #u704_state0_content {
@@ -8337,7 +8337,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -8352,7 +8352,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:317px;
 }
 #u705_text {
   border-width:0px;
@@ -8369,7 +8369,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   overflow:hidden;
 }
 #u706_state0 {
@@ -8378,13 +8378,17 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u706_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u706_state0_content {
   border-width:0px;
@@ -8482,7 +8486,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -8706,7 +8710,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:210px;
   background-image:none;
 }
 #u718_state0_content {
@@ -8723,7 +8727,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:200px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -8738,7 +8742,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:200px;
 }
 #u719_text {
   border-width:0px;
@@ -8755,7 +8759,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:150px;
   overflow:hidden;
 }
 #u720_state0 {
@@ -8764,13 +8768,17 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:150px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u720_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u720_state0_content {
   border-width:0px;
@@ -8868,7 +8876,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:150px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -8890,7 +8898,7 @@
 #u725 {
   position:absolute;
   left:190px;
-  top:937px;
+  top:1004px;
 }
 #u725_state0 {
   position:relative;
@@ -9085,7 +9093,7 @@
 #u732 {
   position:absolute;
   left:20px;
-  top:870px;
+  top:820px;
 }
 #u732_state0 {
   position:relative;
@@ -9296,7 +9304,7 @@
   border-width:0px;
   position:absolute;
   left:20px;
-  top:5155px;
+  top:5464px;
   width:56px;
   height:56px;
 }
@@ -9354,14 +9362,14 @@
 #u742 {
   position:absolute;
   left:190px;
-  top:1167px;
+  top:1234px;
 }
 #u742_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:210px;
+  height:327px;
   background-image:none;
 }
 #u742_state0_content {
@@ -9378,7 +9386,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:200px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -9393,7 +9401,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:200px;
+  height:317px;
 }
 #u743_text {
   border-width:0px;
@@ -9410,7 +9418,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   overflow:hidden;
 }
 #u744_state0 {
@@ -9419,7 +9427,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -9527,7 +9535,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -9549,14 +9557,14 @@
 #u749 {
   position:absolute;
   left:20px;
-  top:1217px;
+  top:1167px;
 }
 #u749_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:327px;
   background-image:none;
 }
 #u749_state0_content {
@@ -9573,7 +9581,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -9588,7 +9596,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:317px;
 }
 #u750_text {
   border-width:0px;
@@ -9605,7 +9613,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   overflow:hidden;
 }
 #u751_state0 {
@@ -9614,13 +9622,17 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u751_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u751_state0_content {
   border-width:0px;
@@ -9718,7 +9730,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -9740,7 +9752,7 @@
 #u756 {
   position:absolute;
   left:190px;
-  top:1397px;
+  top:1581px;
 }
 #u756_state0 {
   position:relative;
@@ -9935,7 +9947,7 @@
 #u763 {
   position:absolute;
   left:190px;
-  top:1744px;
+  top:1928px;
 }
 #u763_state0 {
   position:relative;
@@ -10006,7 +10018,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u765_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -10130,7 +10142,7 @@
 #u770 {
   position:absolute;
   left:20px;
-  top:1497px;
+  top:1514px;
 }
 #u770_state0 {
   position:relative;
@@ -10201,7 +10213,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u772_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -10325,14 +10337,14 @@
 #u777 {
   position:absolute;
   left:190px;
-  top:2024px;
+  top:2208px;
 }
 #u777_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:210px;
+  height:327px;
   background-image:none;
 }
 #u777_state0_content {
@@ -10349,7 +10361,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:200px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -10364,7 +10376,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:200px;
+  height:317px;
 }
 #u778_text {
   border-width:0px;
@@ -10381,7 +10393,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   overflow:hidden;
 }
 #u779_state0 {
@@ -10390,7 +10402,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -10498,7 +10510,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -10520,7 +10532,7 @@
 #u784 {
   position:absolute;
   left:190px;
-  top:2254px;
+  top:2555px;
 }
 #u784_state0 {
   position:relative;
@@ -10591,7 +10603,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u786_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -10715,14 +10727,14 @@
 #u791 {
   position:absolute;
   left:20px;
-  top:2007px;
+  top:2074px;
 }
 #u791_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:385px;
   background-image:none;
 }
 #u791_state0_content {
@@ -10739,7 +10751,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:375px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -10754,7 +10766,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:375px;
 }
 #u792_text {
   border-width:0px;
@@ -10771,7 +10783,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:325px;
   overflow:hidden;
 }
 #u793_state0 {
@@ -10780,13 +10792,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:325px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u793_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -10888,7 +10900,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:325px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -10910,14 +10922,14 @@
 #u798 {
   position:absolute;
   left:20px;
-  top:1777px;
+  top:1794px;
 }
 #u798_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:210px;
+  height:260px;
   background-image:none;
 }
 #u798_state0_content {
@@ -10934,7 +10946,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:200px;
+  height:250px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -10949,7 +10961,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:200px;
+  height:250px;
 }
 #u799_text {
   border-width:0px;
@@ -10966,7 +10978,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:200px;
   overflow:hidden;
 }
 #u800_state0 {
@@ -10975,13 +10987,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:200px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u779_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u800_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -11083,7 +11095,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:200px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -11105,14 +11117,14 @@
 #u805 {
   position:absolute;
   left:20px;
-  top:2287px;
+  top:2479px;
 }
 #u805_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:210px;
+  height:327px;
   background-image:none;
 }
 #u805_state0_content {
@@ -11129,7 +11141,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:200px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -11144,7 +11156,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:200px;
+  height:317px;
 }
 #u806_text {
   border-width:0px;
@@ -11161,7 +11173,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   overflow:hidden;
 }
 #u807_state0 {
@@ -11170,13 +11182,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u779_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u807_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -11278,7 +11290,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -11300,7 +11312,7 @@
 #u812 {
   position:absolute;
   left:20px;
-  top:2517px;
+  top:2826px;
 }
 #u812_state0 {
   position:relative;
@@ -11371,7 +11383,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u758_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u814_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -11495,14 +11507,14 @@
 #u819 {
   position:absolute;
   left:190px;
-  top:2601px;
+  top:2902px;
 }
 #u819_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:327px;
   background-image:none;
 }
 #u819_state0_content {
@@ -11519,7 +11531,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -11534,7 +11546,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:317px;
 }
 #u820_text {
   border-width:0px;
@@ -11551,7 +11563,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   overflow:hidden;
 }
 #u821_state0 {
@@ -11560,13 +11572,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u821_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -11668,7 +11680,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -11690,7 +11702,7 @@
 #u826 {
   position:absolute;
   left:20px;
-  top:2864px;
+  top:3173px;
 }
 #u826_state0 {
   position:relative;
@@ -11761,7 +11773,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u779_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u828_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -11885,7 +11897,7 @@
 #u833 {
   position:absolute;
   left:20px;
-  top:3094px;
+  top:3403px;
 }
 #u833_state0 {
   position:relative;
@@ -11956,7 +11968,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u835_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12080,14 +12092,14 @@
 #u840 {
   position:absolute;
   left:190px;
-  top:2881px;
+  top:3249px;
 }
 #u840_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:327px;
+  height:210px;
   background-image:none;
 }
 #u840_state0_content {
@@ -12104,7 +12116,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:317px;
+  height:200px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -12119,7 +12131,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:317px;
+  height:200px;
 }
 #u841_text {
   border-width:0px;
@@ -12136,7 +12148,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:267px;
+  height:150px;
   overflow:hidden;
 }
 #u842_state0 {
@@ -12145,13 +12157,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:267px;
+  height:150px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u842_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12253,7 +12265,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:267px;
+  top:150px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -12275,14 +12287,14 @@
 #u847 {
   position:absolute;
   left:190px;
-  top:3228px;
+  top:3479px;
 }
 #u847_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:210px;
+  height:260px;
   background-image:none;
 }
 #u847_state0_content {
@@ -12299,7 +12311,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:200px;
+  height:250px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -12314,7 +12326,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:200px;
+  height:250px;
 }
 #u848_text {
   border-width:0px;
@@ -12331,7 +12343,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:200px;
   overflow:hidden;
 }
 #u849_state0 {
@@ -12340,13 +12352,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:150px;
+  height:200px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u779_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u849_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12448,7 +12460,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:200px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -12470,7 +12482,7 @@
 #u854 {
   position:absolute;
   left:20px;
-  top:3374px;
+  top:3683px;
 }
 #u854_state0 {
   position:relative;
@@ -12541,7 +12553,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u856_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12665,7 +12677,7 @@
 #u861 {
   position:absolute;
   left:190px;
-  top:3458px;
+  top:3759px;
 }
 #u861_state0 {
   position:relative;
@@ -12736,7 +12748,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u779_state0.jpg');
+  background-image:url('../../images/kitilo_s_resume/u863_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -12860,14 +12872,14 @@
 #u868 {
   position:absolute;
   left:190px;
-  top:3688px;
+  top:3989px;
 }
 #u868_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:327px;
   background-image:none;
 }
 #u868_state0_content {
@@ -12884,7 +12896,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:317px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -12899,7 +12911,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:317px;
 }
 #u869_text {
   border-width:0px;
@@ -12916,7 +12928,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   overflow:hidden;
 }
 #u870_state0 {
@@ -12925,13 +12937,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:267px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u870_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13033,7 +13045,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:267px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -13055,7 +13067,7 @@
 #u875 {
   position:absolute;
   left:20px;
-  top:3721px;
+  top:4030px;
 }
 #u875_state0 {
   position:relative;
@@ -13126,7 +13138,7 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u877_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -13250,14 +13262,14 @@
 #u882 {
   position:absolute;
   left:190px;
-  top:3968px;
+  top:4336px;
 }
 #u882_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:327px;
+  height:260px;
   background-image:none;
 }
 #u882_state0_content {
@@ -13274,7 +13286,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:317px;
+  height:250px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -13289,7 +13301,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:317px;
+  height:250px;
 }
 #u883_text {
   border-width:0px;
@@ -13306,7 +13318,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:267px;
+  height:200px;
   overflow:hidden;
 }
 #u884_state0 {
@@ -13315,13 +13327,17 @@
   left:0px;
   top:0px;
   width:150px;
-  height:267px;
+  height:200px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u884_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u884_state0_content {
   border-width:0px;
@@ -13419,7 +13435,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:267px;
+  top:200px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -13441,7 +13457,7 @@
 #u889 {
   position:absolute;
   left:20px;
-  top:4001px;
+  top:4310px;
 }
 #u889_state0 {
   position:relative;
@@ -13636,7 +13652,7 @@
 #u896 {
   position:absolute;
   left:190px;
-  top:4315px;
+  top:4616px;
 }
 #u896_state0 {
   position:relative;
@@ -13831,7 +13847,7 @@
 #u903 {
   position:absolute;
   left:20px;
-  top:4231px;
+  top:4540px;
 }
 #u903_state0 {
   position:relative;
@@ -13902,7 +13918,11 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u905_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u905_state0_content {
   border-width:0px;
@@ -14022,7 +14042,7 @@
 #u910 {
   position:absolute;
   left:20px;
-  top:4578px;
+  top:4887px;
 }
 #u910_state0 {
   position:relative;
@@ -14217,14 +14237,14 @@
 #u917 {
   position:absolute;
   left:190px;
-  top:4545px;
+  top:4846px;
 }
 #u917_state0 {
   position:relative;
   left:0px;
   top:0px;
   width:150px;
-  height:260px;
+  height:210px;
   background-image:none;
 }
 #u917_state0_content {
@@ -14241,7 +14261,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:250px;
+  height:200px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -14256,7 +14276,7 @@
   left:10px;
   top:10px;
   width:130px;
-  height:250px;
+  height:200px;
 }
 #u918_text {
   border-width:0px;
@@ -14273,7 +14293,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:150px;
   overflow:hidden;
 }
 #u919_state0 {
@@ -14282,13 +14302,13 @@
   left:0px;
   top:0px;
   width:150px;
-  height:200px;
+  height:150px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:url('../../images/kitilo_s_resume/u765_state0.png');
+  background-image:url('../../images/kitilo_s_resume/u919_state0.jpg');
   background-position:center top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -14390,7 +14410,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:150px;
   width:150px;
   height:60px;
   font-family:'微软雅黑';
@@ -14412,7 +14432,7 @@
 #u924 {
   position:absolute;
   left:190px;
-  top:4825px;
+  top:5076px;
 }
 #u924_state0 {
   position:relative;
@@ -14607,7 +14627,7 @@
 #u931 {
   position:absolute;
   left:20px;
-  top:4808px;
+  top:5117px;
 }
 #u931_state0 {
   position:relative;
@@ -14678,7 +14698,11 @@
   -ms-overflow-y:hidden;
   overflow-y:hidden;
   background-color:rgba(204, 204, 204, 1);
-  background-image:none;
+  background-image:url('../../images/kitilo_s_resume/u933_state0.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
 #u933_state0_content {
   border-width:0px;
@@ -16589,7 +16613,7 @@
   left:0px;
   top:0px;
   width:320px;
-  height:120px;
+  height:90px;
   visibility:hidden;
   background-image:none;
 }
@@ -16607,7 +16631,7 @@
   left:0px;
   top:0px;
   width:320px;
-  height:120px;
+  height:90px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -16639,7 +16663,7 @@
   left:0px;
   top:0px;
   width:320px;
-  height:120px;
+  height:90px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
